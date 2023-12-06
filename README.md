@@ -25,6 +25,3 @@
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Hayatooa)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/hayatoa567/)
 
-###
-
-![Snake animation](https://github.com/joaokll/joaokll/blob/output/github-contribution-grid-snake.svg)
